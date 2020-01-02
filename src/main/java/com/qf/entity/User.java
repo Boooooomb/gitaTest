@@ -1,4 +1,4 @@
-package com.qf.tnitiy;
+package com.qf.entity;
 
 public class User {
     private String uname;
